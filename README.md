@@ -26,7 +26,7 @@
 ## Languages
 
 <p align='center'>
-  <img id="image" style="width: 256px; height: 256px; visibility: visible;" data-size="256" class="img-responsive" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png" title="Unreal engine" alt="unreal, engine Icon" data-xblocker="passed"/>
+  <img id="image" style="width: 10px; height: 10px; visibility: visible;" data-size="256" class="img-responsive" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png" title="Unreal engine" alt="unreal, engine Icon" data-xblocker="passed"/>
   <img src='https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white' />
 
   <img src='https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white' />
