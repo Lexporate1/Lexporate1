@@ -27,7 +27,7 @@
 
 <p align='center'>
   <img id="image" style="width: 50px; height: 50px; visibility: visible;" data-size="256" class="img-responsive" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png" title="Unreal engine" alt="unreal, engine Icon" data-xblocker="passed"/>
-  <img id="image" style="width: 512px; height: 512px; visibility: visible;" data-size="512" class="img-responsive" src="https://cdn.icon-icons.com/icons2/4034/PNG/512/portable_console_handheld_entertainment_fun_doodle_games_game_icon_256416.png" title="Portable, console, handheld, entertainment, fun, doodle, games, game Icon Free" alt="portable, console, handheld, entertainment, fun, doodle, games, game Icon" data-xblocker="passed" name="Android"/>
+  <img id="image" style="width: 50px; height: 50px; visibility: visible;" data-size="512" class="img-responsive" src="https://cdn.icon-icons.com/icons2/4034/PNG/512/portable_console_handheld_entertainment_fun_doodle_games_game_icon_256416.png" title="Portable, console, handheld, entertainment, fun, doodle, games, game Icon Free" alt="portable, console, handheld, entertainment, fun, doodle, games, game Icon" data-xblocker="passed" name="Android"/>
 
   <img src='https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white' />
   <img src='https://img.shields.io/badge/-Rust-363636?style=flat-square&logo=Rust&logoColor=white' />
