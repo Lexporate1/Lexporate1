@@ -15,7 +15,7 @@
       
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryanjon2040&theme=darkhub&title=Stars,Commit,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=Unreal-Binary-Builder&theme=radical)](https://github.com/ryanjon2040/Unreal-Binary-Builder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=Unreal-Binary-Builder&theme=radical)](https://github.com/Lexporate1/UnrealBinary-Template.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=AgoraStaticMeshThumbnailRenderer&theme=radical)](https://github.com/ryanjon2040/AgoraStaticMeshThumbnailRenderer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=UnrealNetworkProfiler&theme=radical)](https://github.com/ryanjon2040/UnrealNetworkProfiler)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=AgoraViewportClient&theme=radical)](https://github.com/ryanjon2040/AgoraViewportClient)
