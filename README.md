@@ -2,16 +2,6 @@
 
 ### Hi there 👋
 
-- 📫 *How to reach me:*<br>
-     * Checkout my [**LinkTree**](https://linktr.ee/ryanjon2040)<br>
-
-- 🏃 *Purchase my plugins:*<br>
-     * [**Unreal Engine Marketplace**](https://www.unrealengine.com/marketplace/profile/Satheesh+PV)<br>
-
-
-- 💬 *Ask me about:*<br>
-     * **Voxel Engine**&nbsp;&nbsp;&nbsp;&nbsp;➡ [A plugin for Unreal Engine](https://discord.playvoxward.com)<br>
-     * **Agora**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ [Agora (real time strategy game)](https://forums.unrealengine.com/community/work-in-progress/1784564-patreon-live-agora-real-time-strategy-game-under-development)
       
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryanjon2040&theme=darkhub&title=Stars,Commit,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
