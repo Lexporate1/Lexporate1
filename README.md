@@ -17,7 +17,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=Unreal-Binary-Builder&theme=radical)](https://github.com/Lexporate1/UnrealBinary-Template.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=AgoraStaticMeshThumbnailRenderer&theme=radical)](https://github.com/ryanjon2040/AgoraStaticMeshThumbnailRenderer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=UnrealNetworkProfiler&theme=radical)](https://github.com/ryanjon2040/UnrealNetworkProfiler)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=UnrealNetworkProfiler&theme=radical)](https://github.com/Lexporate1/UnrealNetwork-Profiler)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=AgoraViewportClient&theme=radical)](https://github.com/ryanjon2040/AgoraViewportClient)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=Unreal-Issue-Tracker&theme=radical)](https://github.com/ryanjon2040/Unreal-Issue-Tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=UE4NetDebugStatsPlugin&theme=radical)](https://github.com/ryanjon2040/UE4NetDebugStatsPlugin)
