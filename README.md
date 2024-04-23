@@ -14,7 +14,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanjon2040&repo=Discord-UE4&theme=radical)](https://github.com/ryanjon2040/Discord-UE4)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ryanjon2040&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?usernamelexporate1&count_private=true&show_icons=true" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexporate1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
